@@ -69,7 +69,8 @@ section[data-testid="stSidebar"] { background-color: #fcfaf7 !important; border-
 .c-icon { width:22px;height:22px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:11px;flex-shrink:0; }
 
 /* Input */
-.stTextArea textarea { border-radius: 14px !important; border: 1.5px solid #e0dbd5 !important; font-family: 'DM Sans', sans-serif !important; font-size:14px !important; background: #fdfcfa !important; }
+.stTextArea textarea { border-radius: 14px !important; border: 1.5px solid #e0dbd5 !important; font-family: 'DM Sans', sans-serif !important; font-size:14px !important; background: #fdfcfa !important; color: #1a1a2e !important; caret-color: #2d4a3e !important; }
+.stTextArea textarea::placeholder { color: #b0a898 !important; }
 .stTextArea textarea:focus { border-color: #7c9a92 !important; box-shadow: none !important; }
 
 /* Buttons */
