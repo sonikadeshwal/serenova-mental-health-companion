@@ -9,6 +9,12 @@
 </p>
 
 <p align="center">
+  <a href="https://serenova-mental-health-companion-79u5ebfcykwmhnkhcuetwk.streamlit.app/">
+    <img src="https://img.shields.io/badge/🌐 Live Demo-Click Here-2d4a3e?style=for-the-badge" alt="Live Demo"/>
+  </a>
+</p>
+
+<p align="center">
   <b>A conversational AI chatbot that understands how you feel — not just what you say.</b><br/>
   Detects emotional tone, responds with empathy, and tracks your mood across the session.
 </p>
